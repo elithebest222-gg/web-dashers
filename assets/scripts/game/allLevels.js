@@ -132,11 +132,11 @@ window.allLevels = [
 	    ["RobTop", "MDK"]
     ],
     [
-        "pixelater demon",
+        "pixelater_demon",
 	    "Pixelater Demon",
 	    "pixelater_demon.txt",
-	    ["eli", "RobTop"]
-    ],/*
+	    ["Eli", "RobTop"]
+    ],
     [
         "bloodbath",
 	    "Bloodbath",
