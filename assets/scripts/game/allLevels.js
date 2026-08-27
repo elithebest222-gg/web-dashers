@@ -130,13 +130,13 @@ window.allLevels = [
 	    "Dash",
 	    "level_22",
 	    ["RobTop", "MDK"]
-    ],/*
-    [
-        "every_end",
-	    "Every End",
-	    "level_99",
-	    ["MindCap", "Dimrain47"]
     ],
+    [
+        "pixelater demon",
+	    "Pixelater Demon",
+	    "pixelater_demon.txt",
+	    ["eli", "RobTop"]
+    ],/*
     [
         "bloodbath",
 	    "Bloodbath",
