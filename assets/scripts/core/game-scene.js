@@ -5817,14 +5817,11 @@ _buildSettingsPopup() {
     const creditsEntries = [
       { text: "Made by RobTop Games", scale: 0.8, font: "goldFont" },
       { text: "Modded by:", scale: 0.9, font: "bigFont" },
-      { text: "breadbb, PinkDev, rohanis0000,", scale: 0.7, font: "goldFont" },
-      { text: "bog, Lasokar, AntiMatter,", scale: 0.7, font: "goldFont" },
-      { text: "arbstro, and aloaf", scale: 0.7, font: "goldFont" },
+      { text: "ELIJAH - GN-MATH", scale: 0.7, font: "goldFont" },
       { text: "Contributors:", scale: 0.9, font: "bigFont" },
-      { text: "t0nchi7, Itzar, zainojdaf,", scale: 0.7, font: "goldFont" },
-      { text: "Ameth7st, and CoraBitz", scale: 0.7, font: "goldFont" },
-      { text: "we love you cora <3", scale: 0.4, font: "bigFont" },
-      { text: "© 2026 RobTop Games. All rights reserved.", scale: 0.4, font: "Arial", color: 0x000000 },
+      { text: "gage, gavyn, eli,", scale: 0.7, font: "goldFont" },
+      { text: "sub to elijahh_gd on yt", scale: 0.4, font: "bigFont" },
+      { text: "© 2026 GN-MATH. All rights reserved.", scale: 0.4, font: "Arial", color: 0x000000 },
     ]; 
     let yPos = 0;
     const lineItems = [];
@@ -6492,7 +6489,6 @@ _showwippopup() {
       { text: "Next PR, still working on them.", scale: 0.7, color: 0x666666 },
       { text: "Slopes OVERHAULED", scale: 0.75, color: 0xff9944 },
       { text: "Bug reports are appreciated", scale: 0.75, },
-      { text: "-Bari", scale: 0.75, },
       { text: "Credits menu fixed :3", scale: 0.75, },
       { text: "Small Icon Kit changes", scale: 0.75, },
       { text: "Low Detail Mode", scale: 0.75, },
@@ -6514,7 +6510,7 @@ _showwippopup() {
       { text: "Slopes work in imported-", scale: 0.75, },
       { text: "levels now (thanks lasokadadyy)", scale: 0.7, },
       { text: "Fixed SOME objects", scale: 0.75 },
-      { text: "-pinkdih", scale: 0.65, color: 0xFF008E }
+      { text: "-elijah", scale: 0.65, color: 0xFF008E }
     ]; 
     let yPos = 0;
     const lineItems = [];
