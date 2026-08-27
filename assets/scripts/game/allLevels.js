@@ -134,7 +134,7 @@ window.allLevels = [
     [
         "pixelater_demon",
 	    "Pixelater Demon",
-	    "pixelater_demon.txt",
+	    "level_pd",
 	    ["Eli", "RobTop"]
     ],/*
     [
